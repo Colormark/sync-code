@@ -1,5 +1,5 @@
 ## Promise.all
-```
+```javascript  
 Promise.all([
     fetch('style.json')
         .then(function (res) {
